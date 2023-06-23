@@ -1,3 +1,4 @@
+#include "variadic_functions.h"
 /**
  * sum_them_all - a function that sums all argumentsi
  * Return: sum to the main function
